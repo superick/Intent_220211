@@ -18,7 +18,7 @@
         android:id="@+id/messgeEdt"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:hint="전달된 메시지 입력"/>
+        android:hint="전달될 메시지 입력"/>
 
     <Button
         android:id="@+id/sendMessageBtn"
